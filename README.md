@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CS50 Final Project**
 
-- 🌱 I’m currently learning **Python, JavaScript, SQL, HTML and CSS**
+- 🌱 I’m learning **Python, JavaScript, SQL, HTML and CSS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
