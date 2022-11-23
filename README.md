@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">Industrial Engineer interested in Project Management, Logistics, WebDevelopment and Machine Learning</h3>
+<h3 align="center">Industrial Engineer interested in Project Management, Web Development and Data Science!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzunini&label=Profile%20views&color=0e75b6&style=flat" alt="pzunini" /> </p>
 
