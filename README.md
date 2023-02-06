@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzunini&label=Profile%20views&color=0e75b6&style=flat" alt="pzunini" /> </p>
 
-- 🔭 I’m currently working on **CS50 Final Project**
+- 🔭 Currently working on **CS50 Final Project**
 
-- 🌱 I’m learning **Python, JavaScript, SQL, HTML and CSS**
+- 🌱 Learning **Python, JavaScript, SQL, HTML and CSS**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 Looking to collaborate on **open source projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
