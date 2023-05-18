@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzunini&label=Profile%20views&color=0e75b6&style=flat" alt="pzunini" /> </p>
 
-- 🔭 Currently working on **CS50 Final Project**
+- 🔭 Currently working on **CS50x**
 
 - 🌱 Learning **Python, JavaScript, SQL, HTML and CSS**
 
